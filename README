@@ -1,3 +1,5 @@
+Some ideas about distributed video playback system, with one server controller and many independent clients (RaspberyPi's?) that can auto-sync their playback, or be directed individually by the server...
+
 see:  
 websocket - https://websockets.readthedocs.io/en/9.0.1/intro.html
 opencv (video) - https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
